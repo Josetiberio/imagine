@@ -6,14 +6,15 @@ Here is the list of our partners
 
 ## Academic
 
-* Uno
-* Uno
-* Uno
-* Uno
+* CGIHCI in Kaiserslautern Technicshe Universität, Germany
+* CREATIS in INSA de Lyon, France
+* Institut IMAGE, Arts&Métiers-ParisTech, France
+* VRAC in Iowa State University
+*
 
 ## Industry
 
-* Dos
-* Dos
-* Dos
-* Dos
+* Accenture
+* ImexHS
+* 
+* 
